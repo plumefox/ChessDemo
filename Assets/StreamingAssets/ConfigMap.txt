@@ -1,0 +1,2 @@
+skillprefab=Skill/skillprefab
+棋子test=Skill/棋子test
