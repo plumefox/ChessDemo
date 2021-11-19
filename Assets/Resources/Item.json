@@ -1,0 +1,138 @@
+{
+  "consumableList": [
+    {
+      "itemID": 1,
+      "itemName": "apple",
+      "itemInfo": "this is an apple",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 10,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Consumable"
+    },
+    {
+      "itemID": 2,
+      "itemName": "banana",
+      "itemInfo": "this is a banana",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "banana",
+      "capacity": 5,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Consumable"
+    },
+    {
+      "itemID": 3,
+      "itemName": "orange",
+      "itemInfo": "this is an orange",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "orange",
+      "capacity": 8,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Consumable"
+    }
+  ],
+  "skillAttributeItemList": [
+    {
+      "itemID": 6,
+      "itemName": "属性模板1",
+      "itemInfo": "这是一个属性物体模板1",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 0,
+      "skillInfo": "金属性",
+      "skillEquipItemTypeStr": "Attribute",
+      "SkillAttributeTypeStr": "Metal"
+    },
+    {
+      "itemID": 7,
+      "itemName": "属性模板2",
+      "itemInfo": "这是一个属性物体模板2",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 0,
+      "skillInfo": "木属性",
+      "skillEquipItemTypeStr": "Attribute",
+      "SkillAttributeTypeStr": "Wood"
+    }
+  ],
+  "skillImpactItemList": [
+    {
+      "itemID": 8,
+      "itemName": "影响模板1",
+      "itemInfo": "这是一个影响物体模板1",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 0,
+      "skillInfo": "改变攻击方式",
+      "skillEquipItemTypeStr": "Impact"
+    },
+    {
+      "itemID": 9,
+      "itemName": "影响模板2",
+      "itemInfo": "这是一个影响物体模板2",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 0,
+      "skillInfo": "添加加血加血加血",
+      "skillEquipItemTypeStr": "Impact"
+    }
+    
+  ],
+  "skillTemplateItemList": [
+    {
+      "itemID": 4,
+      "itemName": "单孔模板",
+      "itemInfo": "技能物体的单孔模板",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 1,
+      "skillInfo": "造成x点伤害，拥有1个配置位",
+      "skillEquipItemTypeStr": "Template"
+    },
+    {
+      "itemID": 5,
+      "itemName": "多孔模板",
+      "itemInfo": "技能物体的多孔模板",
+      "buyPrice": 10,
+      "salePrice": 5,
+      "iconPath": "apple",
+      "capacity": 1,
+      "qualityTypeStr": "Common",
+      "itemTypeStr": "Equipment",
+      "equipmentTypeStr": "Skill",
+      "skillCapacity": 3,
+      "skillInfo": "造成x点伤害，拥有3个配置位",
+      "skillEquipItemTypeStr": "Template"
+    }
+  ]
+  
+  
+}
